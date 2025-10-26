@@ -1,2 +1,3 @@
 fast forward megre to be created
 master is created
+main is performing as the 3-way merge
